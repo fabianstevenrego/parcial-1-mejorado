@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"name": "hv",
+			"path": "../hv"
+		},
+		{
+			"name": "proyectos web 2022-2",
+			"path": "../proyectos web 2022-2"
+		},
+		{
+			"name": "repo-curso-definitivo-html-y-css-master",
+			"path": "../repo-curso-definitivo-html-y-css-master"
+		},
+		{
+			"path": "../trabajosClase"
+		},
+		{
+			"path": "../practicaParcial"
+		},
+		{
+			"path": "../../Documents/parcial1/parcial1"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "parcial20222"
+	}
+}
